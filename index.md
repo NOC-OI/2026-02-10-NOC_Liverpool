@@ -108,7 +108,11 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="about-this-workshop">
   <strong>About this workshop:</strong>
-  This Software Carpentry course is an advanced course in Python, focusing on techniques and libraries useful for environmental science research. In environmental sciences we often encounter data that is bigger than our computer’s memory and/or that is too big to process with our desktop or laptop computers. This course introduces some ways to tackle that problem using parallelism, Numpy, Numba, Xarray and Dask. It also introduces Cartopy and discusses parallelism friendly file formats. Please see the course notes for further information or get in touch with us. 
+  This Software Carpentry course is an introductory course in machine learning (ML). It will introduce what ML is and some of the key concepts and sub-domains of ML such as supervised learning, unsupervised learning and neural networks. It will finish with a brief discussion around some of the ethics considerations involved in using ML. 
+</p>  
+
+<p>
+  No knowledge of ML is required for this course. However, the course will be taught in Python and therefore a basic understanding of Python is required. You will need to know how to write a for loop, if statement, use functions, libraries and perform basic arithmetic. If you've taken an Introduction to Python course, that should be sufficeient knwoledge. If you've got any questions about this, or anything else, please do drop us an email. 
 </p>
 
 <p id="course-notes">
