@@ -112,7 +112,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 </p>  
 
 <p>
-  No knowledge of ML is required for this course. However, the course will be taught in Python and therefore a basic understanding of Python is required. You will need to know how to write a for loop, if statement, use functions, libraries and perform basic arithmetic. If you've taken an Introduction to Python course, that should be sufficient knowledge. If you've got any questions about this, or anything else, please do drop us an email. 
+  No knowledge of ML is required for this course. However, the course will be taught in Python and therefore some level of familiarity with the Python programming language is assumed (writing for loops, if statements, using functions, libraries and performing basic arithmetic). If you have not previously used Python then we would recommend reading through Software Carpentry’s introductory <a href="https://noc-oi.github.io/python-novice-esces/">Programming with Python</a> lesson before embarking on this one. If you've got any questions about this, or anything else, please do drop us an email. 
 </p>
 
 <p id="course-notes">
